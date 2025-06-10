@@ -1,4 +1,6 @@
-# http://editorconfig.org
+
+
+http://editorconfig.org
 
 # Una propiedad especial que debe ser especificada en la parte superior del archivo fuera de
 # cualquier sección. Establecer a "true" para detener la búsqueda de archivos .editorconfig en el archivo actual
