@@ -109,7 +109,7 @@
   color: #6f6f6f;
 }
 
-.header__footer__timeable {
+.header__timeable {
   display: flex;
   flex-direction: column;
   position: absolute;
@@ -117,12 +117,13 @@
   left: 80px;
 }
 
-.header__timeable-hours {
+.header__paragraph {
   font-family: "inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  color #838383;
   margin: 0;
 }
 
@@ -133,15 +134,7 @@
   right: 80px;
   bottom: 20px;
 }
-.header__address-info {
-  font-family: "inter", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
-  color: #838383;
-  margin: 0;
-}
+
 
 .recipes {
   height: 100%;
