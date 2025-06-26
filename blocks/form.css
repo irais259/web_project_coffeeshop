@@ -52,3 +52,6 @@
   display: inline;
   margin-left: 12px;
 }
+.form {
+  max-width: 385px;
+}
